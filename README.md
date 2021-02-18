@@ -1,21 +1,19 @@
-<h3 align="center" >
+<h3>
 👋 About Me 👋
 </h3>
-<p align="center">
+<p>
 Thank you for visting my github, I'm Jiyeon Moon.
 </p>
  
-<h3 align="center" >
+<h3>
 :mailbox_with_mail: Contact Me :mailbox_with_mail:
 </h3>
-<href align="center">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&align=center&link=mailto:jiyeonmoon814@gmail.com)](mailto:jiyeonmoon814@gmail.com)
-</href>
 
-<h3 align="center" >
+<h3>
 :rocket: Skills :rocket:
 </h3>
-<p align="center">
+<p>
 Skills that I've been taught or I've used 
 </p>
 
