@@ -8,9 +8,9 @@ Thank you for visting my github, I'm Jiyeon Moon.
 <h3 align="center" >
 :mailbox_with_mail: Contact Me
 </h3>
-<src align="center">
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyeonmoon814@gmail.com)](mailto:jiyeonmoon814@gmail.com)
-</src>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&align=center&link=mailto:jiyeonmoon814@gmail.com)](mailto:jiyeonmoon814@gmail.com)
+
              
 
 
