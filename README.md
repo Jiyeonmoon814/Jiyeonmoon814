@@ -1,9 +1,9 @@
 ## 👋 About Me 
  Thank you for visting my github, I'm Jiyeon Moon.
  
-<p align="center">
-:mailbox_with_mail: ### Contact Me
-</p>
+<h3 align="center" >
+:mailbox_with_mail: Contact Me
+</h3>
 
              
 
