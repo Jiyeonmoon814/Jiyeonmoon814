@@ -17,6 +17,7 @@ Thank you for visting my github, I'm Jiyeon Moon.
 <p align="center">
 Skills that I've been taught or used at least once
 </p>
+
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)
 
 
