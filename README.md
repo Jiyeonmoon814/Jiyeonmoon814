@@ -2,7 +2,7 @@
  Thank you for visting my github, I'm Jiyeon Moon.
  
 <p align="center">
-### :mailbox_with_mail: Contact Me
+:mailbox_with_mail: ### Contact Me
 </p>
 
              
