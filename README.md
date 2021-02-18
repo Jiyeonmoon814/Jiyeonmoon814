@@ -12,14 +12,12 @@ Thank you for visting my github, I'm Jiyeon Moon.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&align=center&link=mailto:jiyeonmoon814@gmail.com)](mailto:jiyeonmoon814@gmail.com)
 
 <h3 align="center" >
-:white_check_mark: Skills :white_check_mark:
+:rocket: Skills :rocket:
 </h3>
 <p align="center">
 Skills that I've been taught or used at least once
 </p>
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)]
-[![Java Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)]
-[![JavaScript Badge](https://simpleicons.org/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)]
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)
 
 
              
