@@ -3,6 +3,8 @@
 </h3>
 <p>
 Thank you for visting my github, I'm Jiyeon Moon.
+I've done a team project using Java Script, Java while I was taking a Spring Framework course for 5 months. 
+You can check it on a Project_PIE repository
 </p>
  
 <h3>
