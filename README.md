@@ -34,6 +34,6 @@ I'm currently working as a front-end developer
 
 
 
-[![JiyeonMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonmoon814&theme=buefy&show_icons=true)](https://github.com/jiyeonmoon814/jiyeonmoon814)
+<!-- [![JiyeonMoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonmoon814&theme=buefy&show_icons=true)](https://github.com/jiyeonmoon814/jiyeonmoon814) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonmoon814&theme=buefy&exclude_repo=webContent,WEB,HTML,bootStrap4L&layout=compact)](https://github.com/jiyeonmoon814/jiyeonmoon814)
 
