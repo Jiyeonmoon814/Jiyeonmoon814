@@ -2,7 +2,7 @@
 👋 About Me 👋
 </h3>
 <p>
-Thank you for visting my github, I'm Jiyeon Moon.<br>
+Thank you for visiting my github, I'm Jiyeon Moon.<br>
 I'm currently working as a front-end developer
 </p>
  
